@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SocialGuard ML",
+  "description": "An intelligent system to combat fake accounts, bots, and impersonation using machine learning as proposed in the Fake Profile Detection PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
